@@ -1,9 +1,9 @@
 
 /**
  * Write a description of class Hello_world here.
- * Print out a message saying hello
+ * Print out a message saying hello in the console window
  * @author Jason Ji 
- * @version 8/17/2018
+ * @version 8/24/2018
  */
 public class Hello_World
 {
