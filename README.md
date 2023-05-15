@@ -1,2 +1,2 @@
-# Jason_Ji-Aug2018
-Jason Ji's first Github Repository
+## CS170 Class Projects
+My first Github repository
